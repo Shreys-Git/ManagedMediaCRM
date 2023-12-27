@@ -9,7 +9,7 @@ export const WelcomeBar = () => {
         <Stack justifyContent="center" alignItems="center">
           <Box width={"70%"}>
             <Typography variant="h2" color="inherit" mb={2}>
-              Bussiness made simple
+              Fast forward your bussiness
             </Typography>
             <Typography mb={2}>
               #ManagedMedia helps you manage your entire business. Send

@@ -7,7 +7,7 @@ import {
   Toolbar,
   Typography,
 } from "@mui/material";
-import TagIcon from "@mui/icons-material/Tag";
+import FastForwardIcon from "@mui/icons-material/FastForward";
 
 export const Navbar = () => {
   return (
@@ -20,10 +20,10 @@ export const Navbar = () => {
             color="inherit"
             aria-label="logo"
           >
-            <TagIcon />
+            <FastForwardIcon />
           </IconButton>
           <Typography variant="h5" sx={{ flexGrow: 1 }}>
-            Managed Media
+            ManagedMedia
           </Typography>
           <Stack direction="row" spacing={2}>
             <Button color="inherit">Why Us?</Button>
